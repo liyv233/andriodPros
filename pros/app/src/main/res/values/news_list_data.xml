@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="titles">
+<item>新闻标题1</item>
+<item>新闻标题2</item>
+<item>新闻标题3</item>
+<item>新闻标题4</item>
+<!-- 添加更多的新闻标题 -->
+</string-array>
+
+<string-array name="authors">
+<item>作者1</item>
+<item>作者2</item>
+<item>作者3</item>
+<item>作者4</item>
+<!-- 添加更多的作者 -->
+</string-array>
+
+    <string-array name="images">
+        <item>@drawable/img_01</item>
+        <item>@drawable/img_02</item>
+        <item>@drawable/img_03</item>
+        <item>@drawable/img_04</item>
+    </string-array>
+</resources>
